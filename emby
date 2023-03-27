@@ -1,4 +1,17 @@
 # NAME: Emby
 HOST,emby.enjoyit.eu.org,Emby
-HOST-SUFFIX,s2.amazing910.top,Emby
+#misty
 HOST-SUFFIX,misty.ltd,Emby
+#studyfun
+HOST-SUFFIX,cf.studyfun.live,Emby
+#佛系emby
+HOST-SUFFIX,1.4545.cf,Emby
+#莫高雷
+HOST-SUFFIX,one,mulgore.net,Emvy
+#拨浪鼓
+HOST-SUFFIX,emby,speedx.one,Emby
+#纸片人
+HOST-SUFFIX,gd.9521732.xyz,Emby
+HOST-KEYWORD,embyplus.org,Emby
+#红尘
+HOST-SUFFIX,av.happyav.eu.org,Emby
