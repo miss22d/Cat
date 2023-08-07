@@ -1,18 +1,28 @@
 # NAME: Emby
 DOMAIN,emby.enjoyit.eu.org
+
+#Misakaf
+DOMAIN-SUFFIX,emby.misakaf.org
+
 #misty
 DOMAIN-SUFFIX,misty.ltd
+
 #studyfun
 DOMAIN-SUFFIX,studyfun.live
+
 #佛系emby
 DOMAIN-SUFFIX,1.4545.cf
+
 #纸片人
 DOMAIN-SUFFIX,gd.9521732.xyz
 DOMAIN-KEYWORD,embyplus.org
+
 #垃圾影音
 DOMAIN-SUFFIX,cf.gtlx.org
+
 #NMEmby
 DOMAIN-SUFFIX,film.goodisp.org
+
 #TreeDiagram
 DOMAIN-SUFFIX,789.123456.al
 
