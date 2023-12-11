@@ -2,10 +2,10 @@
 DOMAIN,emby.enjoyit.eu.org
 
 #AT-Misakaf
-DOMAIN-SUFFIX,https://emby-misakaf.atomlantis.cloud
+DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 
 #AT-卷毛鼠
-DOMAIN-SUFFIX,http://emby-mix.atomlantis.cloud
+DOMAIN-SUFFIX,emby-mix.atomlantis.cloud
 
 #佛系emby
 DOMAIN-SUFFIX,1.4545.cf
