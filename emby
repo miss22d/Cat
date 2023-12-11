@@ -1,14 +1,11 @@
 # NAME: Emby
 DOMAIN,emby.enjoyit.eu.org
 
-#Misakaf
-DOMAIN-SUFFIX,emby.misakaf.org
+#AT-Misakaf
+DOMAIN-SUFFIX,https://emby-misakaf.atomlantis.cloud
 
-#misty
-DOMAIN-SUFFIX,misty.ltd
-
-#studyfun
-DOMAIN-SUFFIX,studyfun.live
+#AT-卷毛鼠
+DOMAIN-SUFFIX,http://emby-mix.atomlantis.cloud
 
 #佛系emby
 DOMAIN-SUFFIX,1.4545.cf
@@ -19,9 +16,6 @@ DOMAIN-KEYWORD,embyplus.org
 
 #垃圾影音
 DOMAIN-SUFFIX,cf.gtlx.org
-
-#NMEmby
-DOMAIN-SUFFIX,film.goodisp.org
 
 #TreeDiagram
 DOMAIN-SUFFIX,789.123456.al
