@@ -1,15 +1,5 @@
 # NAME: Emby
 DOMAIN,emby.enjoyit.eu.org
-
-#AT-Misakaf
-DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
-
-#AT-卷毛鼠
-DOMAIN-SUFFIX,emby-mix.atomlantis.cloud
-
-#佛系emby
-DOMAIN-SUFFIX,1.4545.cf
-
 #纸片人
 DOMAIN-SUFFIX,gd.9521732.xyz
 DOMAIN-KEYWORD,embyplus.org
@@ -17,8 +7,8 @@ DOMAIN-KEYWORD,embyplus.org
 #垃圾影音
 DOMAIN-SUFFIX,cf.gtlx.org
 
-#TreeDiagram
-DOMAIN-SUFFIX,789.123456.al
+#Temby
+DOMAIN-SUFFIX,temby.285286.xyz
 
 PROCESS-NAME,com.mb.android
 
