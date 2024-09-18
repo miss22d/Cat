@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,cf.gtlx.org
 #Temby
 DOMAIN-SUFFIX,temby.285286.xyz
 
+#MisakaF
+DOMAIN-SUFFIX,emby.misakaf.org
+
 PROCESS-NAME,com.mb.android
 
 
